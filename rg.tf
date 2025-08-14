@@ -25,7 +25,7 @@ client_secret="PD48Q~IcqNz63VqrTNQKhRMQtejI49K0pG4V1aoR"
 client_id="765f97a9-6831-48a7-9c54-7c8b76af5375"
 }
 variable "rgname" {
-  default = "teraformrg1"
+  default = "teraformrg123"
 }
 variable "location" {
   default = "West US 2"
